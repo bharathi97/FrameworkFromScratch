@@ -1,0 +1,50 @@
+2024-10-29 16:59:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\csdha\Documents\SeleniumFrameWorkFromScratch\testng.xml
+
+2024-10-29 16:59:18 INFO  RegistrationTest:14 - **Starting the test**
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-29 17:20:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\csdha\AppData\Local\Temp\testng-eclipse--832562978\testng-customsuite.xml
+
+2024-10-29 17:20:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2024-10-29 17:20:26 INFO  RegistrationTest:14 - **Starting the test**
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7c2b58c0: 51 ms
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7be3a9ce: 82 ms
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@37d871c2: 2 ms
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@61d84e08: 12 ms
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6bda1d19: 0 ms
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6794ac0b: 15 ms
+2024-10-29 17:20:38 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7be71476: 0 ms
+2024-10-29 17:22:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\csdha\Documents\SeleniumFrameWorkFromScratch\testng.xml
+
+2024-10-29 17:22:41 INFO  RegistrationTest:14 - **Starting the test**
